@@ -1,5 +1,5 @@
-k=3
-n=8
+k=4
+n=16
 
 lst=[]
 def binary(i):
